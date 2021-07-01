@@ -256,6 +256,11 @@ ul li {
 
 }
 
+.copy a {
+    text-decoration: none;
+
+}
+
 
 
 .social-links a {
